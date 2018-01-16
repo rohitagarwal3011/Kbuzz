@@ -20,6 +20,6 @@ public interface FirebaseServices {
     /*User Otp REQUEST*/
     @FormUrlEncoded
     @POST("kbuzz/")
-    Call<ResponseBody> getsessionid(@Field("gcm") String gcm, @Field ("name") String name);
+    Call<ResponseBody> sendnotification(@Field("gcm") String gcm, @Field ("name") String name);
 
 }

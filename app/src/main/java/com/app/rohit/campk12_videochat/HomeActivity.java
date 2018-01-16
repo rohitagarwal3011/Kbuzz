@@ -423,7 +423,7 @@ public class HomeActivity extends AppCompatActivity {
         payload.put("payload",json);
         Log.d("Payload",payload.toString());
 
-        Call<ResponseBody> call = apiServices.getsessionid(user.gcm_id,user.name);
+        Call<ResponseBody> call = apiServices.sendnotification(user.gcm_id,user.name);
         call.enqueue(new Callback<ResponseBody>() {
             @Override
             public void onResponse(Call<ResponseBody> call, Response<ResponseBody> response) {
