@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "822487879781",
+    "firebase_url": "https://campk12-videochat.firebaseio.com",
+    "project_id": "campk12-videochat",
+    "storage_bucket": "campk12-videochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822487879781:android:1825ccf40791702e",
+        "android_client_info": {
+          "package_name": "com.app.rohit.campk12_videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822487879781-fglj4rqcqi3lhannfmu3d3mdpimdbkav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.rohit.campk12_videochat",
+            "certificate_hash": "4a5ece0823d0c03511c164149f88435fc89a9f7d"
+          }
+        },
+        {
+          "client_id": "822487879781-d6f1aeum7531qb5bhpp0ttvie27ed1uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_UIHsCCGuevbZlqdqCGDaPGK8kFaiBHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822487879781-d6f1aeum7531qb5bhpp0ttvie27ed1uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
