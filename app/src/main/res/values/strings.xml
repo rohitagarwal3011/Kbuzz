@@ -8,5 +8,8 @@
 
     <string name="setting">Settings</string>
     <string name="cancel">Cancel</string>
+    <string name="google_web_id">822487879781-d6f1aeum7531qb5bhpp0ttvie27ed1uc.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">160909331202238</string>
+    <string name="fb_login_protocol_scheme">fb160909331202238</string>
 
 </resources>

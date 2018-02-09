@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/_20sdp">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Audio Call"
+        android:id="@+id/audiocall"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_15sdp"
+        android:clickable="true"
+        android:drawableTop="@drawable/ic_phone_black_24dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Video Call"
+        android:gravity="center"
+        android:id="@+id/videocall"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_15sdp"
+        android:drawableTop="@drawable/ic_videocam_black_24dp"/>
+
+
+</LinearLayout>

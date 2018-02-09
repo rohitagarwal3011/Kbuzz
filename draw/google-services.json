@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "248093637989",
+    "firebase_url": "https://campk12-drawnshare.firebaseio.com",
+    "project_id": "campk12-drawnshare",
+    "storage_bucket": "campk12-drawnshare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248093637989:android:1094b9f22374d598",
+        "android_client_info": {
+          "package_name": "com.app.rohit.campk12_drawnshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248093637989-auqrv1cks1b6enggoceug8ba0kfc3ujg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.rohit.campk12_drawnshare",
+            "certificate_hash": "4a5ece0823d0c03511c164149f88435fc89a9f7d"
+          }
+        },
+        {
+          "client_id": "248093637989-00kpvpc4774o97kkjhafj841h9f07c2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPvpP8my8KQ4nOXfp0k9bnFQHMtCOOxmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248093637989-00kpvpc4774o97kkjhafj841h9f07c2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

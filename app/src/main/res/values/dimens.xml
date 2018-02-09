@@ -9,4 +9,26 @@
     <dimen name="publisher_right_margin">16dp</dimen>
     <dimen name="publisher_bottom_margin">56dp</dimen>
     <dimen name="publisher_padding">2dp</dimen>
+
+    <dimen name="space_min">4dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+    <dimen name="space_avg">16dp</dimen>
+    <dimen name="space_big">32dp</dimen>
+
+    <dimen name="padding_min">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_avg">16dp</dimen>
+    <dimen name="padding_big">32dp</dimen>
+
+    <dimen name="margin_min">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_avg">16dp</dimen>
+    <dimen name="margin_big">32dp</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+
+    <dimen name="user_icon_width">36dp</dimen>
+    <dimen name="user_icon_height">36dp</dimen>
+
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
 </resources>

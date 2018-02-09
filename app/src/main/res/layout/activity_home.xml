@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.app.rohit.campk12_videochat.HomeActivity">
+    tools:context="com.app.rohit.campk12_videochat.Activities.HomeActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
